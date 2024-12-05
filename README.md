@@ -1,6 +1,12 @@
 # YT3
 Simple youtube to mp3 converter.
 
+```
+NO ADS
+NO TRACKING
+NO BULLSHIT
+```
+
 ## How it works?
 
 - Go to the site. For eg: github.io/YT3
