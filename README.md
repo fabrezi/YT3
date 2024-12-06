@@ -18,6 +18,7 @@ NO BULLSHIT
 - [] Configure jekyll.
 - [] Deploy on github pages.
 - [] Test in prod :rocket:
+- [] Fix the rocket emoji in the console.log
   
 
 ### References
