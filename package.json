@@ -1,0 +1,17 @@
+{
+  "name": "yt3",
+  "version": "1.0.0",
+  "description": "personal youtube mp3 maker. With jekyll support.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jekyll"
+  ],
+  "author": "mogul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
