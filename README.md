@@ -16,10 +16,12 @@ NO BULLSHIT
 
 ## Open Task
 
-- [] NodeJS module to use??
-- [] Link the application to github.io. This will use `jekyll` module.
+- [] Configure the backend server.
+- [] Create the landing page.
+- [] Configure the rapid api.
   
 
 ### References
 
 - [commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)
+- [rapid](https://rapidapi.com/ytjar/api/youtube-mp36)
