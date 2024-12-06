@@ -4,6 +4,7 @@ Simple youtube to mp3 converter.
 ```
 NO ADS
 NO TRACKING
+NO SOLICITING
 NO BULLSHIT
 ```
 
@@ -24,4 +25,3 @@ NO BULLSHIT
 ### References
 
 - [commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)
-- [rapid](https://rapidapi.com/ytjar/api/youtube-mp36)
