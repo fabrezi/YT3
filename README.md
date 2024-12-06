@@ -14,6 +14,10 @@ NO BULLSHIT
 - [] Configure the backend server.
 - [] Create the landing page.
 - [] Configure the rapid api.
+- [] Test locally.
+- [] Configure jekyll.
+- [] Deploy on github pages.
+- [] Test in prod :rocket:
   
 
 ### References
