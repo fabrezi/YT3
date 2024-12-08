@@ -12,13 +12,12 @@ NO BULLSHIT
 ## Open Task
 
 - [x] Configure the backend server.
-- [] Create the landing page.
+- [x] Create the landing page.
 - [] Configure the rapid api.
 - [] Test locally.
 - [] Configure jekyll.
 - [] Deploy on github pages.
 - [] Test in prod :rocket:
-- [] Fix the rocket emoji in the console.log
   
 
 ### References
