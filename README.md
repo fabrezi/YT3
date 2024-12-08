@@ -11,7 +11,7 @@ NO BULLSHIT
 
 ## Open Task
 
-- [] Configure the backend server.
+- [x] Configure the backend server.
 - [] Create the landing page.
 - [] Configure the rapid api.
 - [] Test locally.
