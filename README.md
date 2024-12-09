@@ -13,6 +13,7 @@ NO BULLSHIT
 
 - [x] Configure the backend server.
 - [x] Create the landing page.
+- [] regex check if the url entered is correct.
 - [] Configure the rapid api.
 - [] Test locally.
 - [] Configure jekyll.
