@@ -20,8 +20,7 @@ app.get('/',(req,res) => {
 })
 
 app.listen(port, () => {
-    console.log(`THE LINK :=> http://localhost:${port}  \u{1F680}`, "🚀")
+    console.log(`THE LINK :=> http://localhost:${port}`, "🚀")
   })
 
-  //console.log("\u{1F680}");
   
