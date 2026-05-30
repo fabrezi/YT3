@@ -25,3 +25,4 @@ NO BULLSHIT
 
 - [commits](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)
 - https://rapidapi.com/ytjar/api/youtube-mp36/playground/apiendpoint_4e7a9345-2e05-42c5-8357-cc0dbb8c27b8
+- [AI-to-revive-dead-projects](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
